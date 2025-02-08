@@ -1,0 +1,6 @@
+{
+  "name": "copyfinder",
+  "dependencies": [
+    "gtest"
+  ]
+}
